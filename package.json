@@ -1,0 +1,20 @@
+{
+  "name": "rural-health-guard",
+  "version": "1.0.0",
+  "description": "Medical Safety Auditor Agent",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "gitagent",
+    "healthcare",
+    "safety"
+  ],
+  "author": "Shankar Reddy",
+  "license": "ISC",
+  "dependencies": {
+    "gitclaw": "^1.1.6"
+  }
+}
